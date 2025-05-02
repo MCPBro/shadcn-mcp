@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/2e037940-3f28-411d-9c21-7d201a4de4b0)
 
-[shadcn mcp](https://mcpbro.com/mcp/shadcn-ui-mcp-server)
+- Go to [shadcn mcp](https://mcpbro.com/mcp/shadcn-ui-mcp-server)
 
 In the rapidly evolving world of web development, the integration of AI assistants with UI component libraries has become increasingly important. The Shadcn UI MCP Server emerges as a groundbreaking solution, bridging the gap between AI models and the popular shadcn/ui component library. This innovative tool enables AI assistants to seamlessly access, understand, and work with shadcn/ui components, revolutionizing how developers interact with UI libraries.
 
